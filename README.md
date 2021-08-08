@@ -28,8 +28,6 @@
 <p align="left">
 
 <a href = "https://linkedin.com/in/francisco-lapão-ramalho-8b882616b"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://github.com/FRamalh0?tab=followers"><img src="https://img.shields.io/github/followers/FRamalh0?label=Followers&style=social" alt="GitHub Badge"></a>
-    
 </p>
-
+<a href="https://github.com/FRamalh0?tab=followers"><img src="https://img.shields.io/github/followers/FRamalh0?label=Followers&style=social" alt="GitHub Badge"></a>
 
