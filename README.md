@@ -20,7 +20,7 @@
     <a href="https://www.adobe.com/pt/products/photoshop.html" target="_blank"> <img src="https://conteudo.imguol.com.br/c/noticias/2015/02/19/logotipo-do-adobe-photoshop-1424357657412_300x300.png" width="45" height="45"/> </a>
     <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="45" height="45"/> </a>
     <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1200px-Haskell-Logo.svg.png" width="45" height="45"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/78962600/128640493-16017530-25c7-4ee0-ab3c-860a8bd873e0.png)" width="45" height="45"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> <img src="!https://user-images.githubusercontent.com/78962600/128640493-16017530-25c7-4ee0-ab3c-860a8bd873e0.png" width="45" height="45"/> </a>
   
 </p>
 
