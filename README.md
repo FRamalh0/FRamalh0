@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/tools.png">
 
-<div> 
+<div align="center"> 
     <!-- ANGULAR -->
     <a href="https://angular.io/" alt="Angular"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/angular.png" alt="Angular"/></a>
     <!-- ASSEMBLY -->
