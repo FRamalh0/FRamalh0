@@ -8,10 +8,7 @@
 ## 🚀 Languages and Tools:
 
 <div> 
-    <a width="50" height="50" style="background-color: #2d333b; border: 1px solid #444c56;" href="https://angular.io/">
-        <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular"/>
-        <p>Angular</p>
+    <a width="60" height="60">
+        <img width="50" height="50" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/angular.png" alt="Angular"/>
     </a>
-   
-  
 </div>
