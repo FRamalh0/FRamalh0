@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://github.com/FRamalh0/FRamalh0/blob/main/style.css">
 <img src="https://i.imgur.com/dOrdKW6.png">
 <h3 align="center">I'm a Computer Engineer from Portugal.</h3>
 
