@@ -8,7 +8,5 @@
 ## 🚀 Languages and Tools:
 
 <div> 
-    <a width="60" height="60">
-        <img width="50" height="50" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/angular.png" alt="Angular"/>
-    </a>
+    <a href="https://angular.io/"><img width="70" height="70" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/angular.png" alt="Angular"/></a>
 </div>
