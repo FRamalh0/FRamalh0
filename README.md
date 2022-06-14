@@ -1,6 +1,4 @@
-
-<link rel="stylesheet" href="https://github.com/FRamalh0/FRamalh0/blob/main/style.css">
-<img src="https://i.imgur.com/dOrdKW6.png">
+<img src="https://i.imgur.com/XlVL4A5.png">
 <h3 align="center">I'm a Computer Engineer from Portugal.</h3>
 
 <div align="center">
@@ -17,4 +15,3 @@
    
   
 </div>
-
