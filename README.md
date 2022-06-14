@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/XlVL4A5.png">
+<img src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/github_hi.png">
 <h3 align="center">I'm a Computer Engineer from Portugal.</h3>
 
 <div align="center">
