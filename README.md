@@ -55,9 +55,9 @@
     <!-- NOTION -->
     <a href="https://www.notion.so/" alt="Notion"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/notion.png" alt="Notion"/></a>
     <!-- PHOTOSHOP -->
-    <a href="https://angular.io/" alt="Angular"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/angular.png" alt="Angular"/></a>
-    <!-- POSTMAN -->
     <a href="https://www.adobe.com/products/photoshop.html" alt="Photoshop"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/photoshop.png" alt="Photoshop"/></a>
+    <!-- POSTMAN -->
+    <a href="https://www.postman.com/" alt="Postman"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/postman.png" alt="Postman"/></a>
     <!-- PYTHON -->
     <a href="https://www.python.org/" alt="Python"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/python.png" alt="Python"/></a>
     <!-- REACT -->
