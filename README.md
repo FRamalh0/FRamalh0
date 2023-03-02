@@ -24,6 +24,8 @@
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" alt="C++"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/c++.png" alt="C++"/></a>
     <!-- CSS -->
     <a href="https://en.wikipedia.org/wiki/CSS" alt="CSS"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/css.png" alt="CSS"/></a>
+    <!-- DRUPAL -->
+    <a href="https://www.drupal.org/" alt="Drupal"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/drupal.png" alt="Drupal"/></a>
     <!-- ECLIPSE -->
     <a href="https://www.eclipse.org/" alt="Eclipse"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/eclipse.png" alt="Eclipse"/></a>
     <!-- ELECTRON -->
@@ -74,4 +76,6 @@
     <a href="https://visualstudio.microsoft.com/" alt="Visual Studio"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/visual_studio.png" alt="Visual Studio"/></a>
     <!-- VISUAL STUDIO CODE -->
     <a href="https://code.visualstudio.com/" alt="Visual Studio Code"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/visual_studio_code.png" alt="Visual Studio Code"/></a>
+    <!-- VUE JS -->
+    <a href="https://vuejs.org/" alt="VueJS"><img width="80" height="80" src="https://raw.githubusercontent.com/FRamalh0/FRamalh0/main/img/vuejs.png" alt="VueJS"/></a>
 </div>
